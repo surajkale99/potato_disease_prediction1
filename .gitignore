@@ -12,3 +12,11 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+# ML models
+*.h5
+*.keras 
+
+
+# Uploaded images
+static/uploads/
